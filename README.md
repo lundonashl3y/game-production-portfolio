@@ -1,9 +1,9 @@
 # game-production-portfolio
 A collection of indie game projects shipped through itch.io for Games For Love Cause Jam Department, documenting my role in supporting development from concept through release.
+
+# The Midnight Glass
 <img width="314" height="249" alt="C12DF089-057C-4E77-8EC3-787FC371D127_4_5005_c" src="https://github.com/user-attachments/assets/fbf7d4ae-caa6-49de-9c9d-4274897d99e9" />
 https://greatsnow.itch.io/the-midnight-glass
-# The Midnight Glass
-
 ## Role
 Project Manager.
 
