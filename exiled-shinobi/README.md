@@ -1,5 +1,6 @@
 # Exiled Shinobi
 <img width="314" height="249" alt="4A3E14BB-444E-4A4A-B30E-E51661CE4335_4_5005_c" src="https://github.com/user-attachments/assets/a157ec9f-789f-4616-b17f-1803117cf9c8" />
+<img width="1920" height="1080" alt="5AB5F696-0596-43B4-9E87-5CD928886E04" src="https://github.com/user-attachments/assets/02c4e75b-36d2-4879-b145-7930e2c4de55" />
 
 ## Role
 
