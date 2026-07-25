@@ -1,6 +1,5 @@
 # Culinary Caverns
-
-<img width="250" height="143" alt="E0AE668D-B513-42F2-A098-AE3F99C6DC8E_4_5005_c" src="https://github.com/user-attachments/assets/3c0ec3db-dc01-4a72-b6d0-f12a368b13d1" />
+<img width="794" height="454" alt="596E1741-5DC0-45E0-AF8B-F37B26123C7D" src="https://github.com/user-attachments/assets/11cf89af-954a-4d15-8c4b-260e9c779a5e" />
 <img width="794" height="446" alt="1078584C-2258-4FCF-9ED8-96EDB25EDE85" src="https://github.com/user-attachments/assets/f45efe63-29cc-44af-b08b-59aeba45d038" />
 
 
