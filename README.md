@@ -19,7 +19,6 @@ Team: 4 contributors (Programming, Art, Design, Production)
 ## Project Overview
 
 A young boy gets thirsty in the night. However, he forgot to clean his room. How will he navigate the mess? Use the lights throughout his room to help light his way.
-<img width="314" height="249" alt="C12DF089-057C-4E77-8EC3-787FC371D127_4_5005_c" src="https://github.com/user-attachments/assets/fbf7d4ae-caa6-49de-9c9d-4274897d99e9" />
 https://greatsnow.itch.io/the-midnight-glass
 
 ## Production Challenge
