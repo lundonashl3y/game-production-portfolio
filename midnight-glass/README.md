@@ -1,7 +1,8 @@
 # The Midnight Glass
 
 <img width="314" height="249" alt="C12DF089-057C-4E77-8EC3-787FC371D127_4_5005_c" src="https://github.com/user-attachments/assets/18b6d846-ad08-490b-8200-6d86aac97515" />
-<img width="794" height="453" alt="AFEAD533-7853-48ED-A4F8-A340A573DAF2" src="https://github.com/user-attachments/assets/e8887b79-2b84-454e-8f16-6166c5cc525f" />
+<img width="320" height="180" alt="B5424BC1-D5A7-41A4-994D-F753CD65AA7E_4_5005_c" src="https://github.com/user-attachments/assets/3ed05eba-c267-4060-b304-93ac502ab0df" />
+
 
 
 ## Role
