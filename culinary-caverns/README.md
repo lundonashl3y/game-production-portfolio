@@ -1,6 +1,7 @@
 # Culinary Caverns
 
 <img width="250" height="143" alt="E0AE668D-B513-42F2-A098-AE3F99C6DC8E_4_5005_c" src="https://github.com/user-attachments/assets/3c0ec3db-dc01-4a72-b6d0-f12a368b13d1" />
+<img width="794" height="446" alt="1078584C-2258-4FCF-9ED8-96EDB25EDE85" src="https://github.com/user-attachments/assets/f45efe63-29cc-44af-b08b-59aeba45d038" />
 
 
 ## Role
