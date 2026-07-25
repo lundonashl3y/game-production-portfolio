@@ -45,15 +45,16 @@ https://luuiart.itch.io/diceanddragons
 
 ## Production Challenges
 
-Dice and Dragons required coordination between gameplay development, visual design, animation, cinematography, and visual effects to create a cohesive experience.
+During development and release, Dice and Dragons required additional quality assurance and iteration to address gameplay stability, user experience issues, and player feedback.
 
 Key production challenges included:
 
-- Coordinating multiple creative disciplines.
-- Supporting integration between gameplay and visual presentation.
-- Managing feature development within a limited timeline.
-- Maintaining communication between technical and artistic contributors.
-- Supporting testing and iteration throughout development.
+- Identifying and resolving gameplay bugs affecting combat interactions.
+- Addressing issues with character and enemy attack systems.
+- Fixing progression inconsistencies when restarting after defeat.
+- Improving UI and display compatibility across different screen sizes.
+- Reviewing player feedback to identify areas requiring additional polish.
+- Coordinating testing efforts to improve overall game stability and player experience.
 
 ---
 
@@ -87,10 +88,10 @@ As Project Manager, I:
 
 ## Production Highlights
 
-- Successfully shipped a collaborative Unity project on itch.io.
-- Coordinated production across multiple creative disciplines.
-- Supported integration of gameplay, animation, cinematography, and VFX.
-- Helped guide development through final delivery.
+- Supported quality assurance efforts by tracking player feedback and identifying improvement areas.
+- Helped coordinate bug reporting and prioritization during development and release.
+- Supported iteration on gameplay systems, UI compatibility, and overall player experience.
+- Successfully delivered a collaborative Unity project on itch.io.
 
 ---
 
