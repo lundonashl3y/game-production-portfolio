@@ -4,6 +4,9 @@ A collection of indie game projects shipped through itch.io for Games For Love C
 # The Midnight Glass
 <img width="314" height="249" alt="C12DF089-057C-4E77-8EC3-787FC371D127_4_5005_c" src="https://github.com/user-attachments/assets/fbf7d4ae-caa6-49de-9c9d-4274897d99e9" />
 https://greatsnow.itch.io/the-midnight-glass
+<img width="320" height="180" alt="B5424BC1-D5A7-41A4-994D-F753CD65AA7E_4_5005_c" src="https://github.com/user-attachments/assets/f9cdb64d-03e6-47eb-9cb2-fdd76957a3b6" />
+<img width="320" height="180" alt="F2FA6B56-FF18-41DD-B534-6C273E4D336A_4_5005_c" src="https://github.com/user-attachments/assets/fce5d6cd-0cd4-4ef8-a425-a5c363a8098c" />
+
 
 ## Role
 Project Manager.
