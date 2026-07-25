@@ -1,6 +1,5 @@
 # Fruit Fortress
-<img width="794" height="446" alt="10CE6282-6FBD-4573-A77F-A92AC9C5AFBC" src="https://github.com/user-attachments/assets/e5b58b5b-2c7c-4e37-abfb-2541e7caf8ae" />
-
+<img width="794" height="329" alt="FAEEDC68-0E97-47F0-ACE1-697DD0335A6F_4_5005_c" src="https://github.com/user-attachments/assets/fc4361c2-6e04-48e0-a107-cb9a4a71e149" />
 
 ## Role
 
